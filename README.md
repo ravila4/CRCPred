@@ -16,7 +16,7 @@ The code for the various models built is presented in the form of Jupyter and R 
 
 ## Model building workflow
 
-![](figures/cv-diagram.svg)
+<img src="figures/cv-diagram.svg" width="500">
 
 Classifier performance is evaluated using and accuracy score, balanced accuracy score, and AUC/ROC.
 
