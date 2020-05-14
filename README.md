@@ -1,6 +1,8 @@
-# CRC Prediction
+# Colorectal Cancer (CRC) Prediction Models
 
-This project uses a publicly available dual-feature dataset consisting of microbiomics and metabolomics data to classify patients into CRC and non-CRC groups. The datasets were obtained from the the publication: [Fecal Microbiota, Fecal Metabolome, and Colorectal Cancer Interrelations, by Sinha et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152126)
+CRC prediction models built using a publicly available dual-feature dataset consisting of microbiomics and metabolomics data.
+
+The datasets were obtained from the the publication: [Fecal Microbiota, Fecal Metabolome, and Colorectal Cancer Interrelations, by Sinha et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152126)
 
 
 
